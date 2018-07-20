@@ -1,0 +1,6 @@
+server.port=10007
+
+bonus-tv.serialKey=SAME-KEY
+bonus-tv.rekey=true
+bonus-tv.platformId=5
+bonus-tv.order=asc
